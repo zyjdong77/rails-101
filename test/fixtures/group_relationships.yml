@@ -2,8 +2,8 @@
 
 one:
   group_id: 1
-  user_idinteger: MyString
+  user_id: 1
 
 two:
   group_id: 1
-  user_idinteger: MyString
+  user_id: 1
